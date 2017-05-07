@@ -1,7 +1,7 @@
 # GitHub
 ## 学习GitHub的过程
 1. GitHub是什么  
-IT技术人员的社交网站（一个面向开源及私有软件项目的托管平台）
+IT技术人员的社交网站（一个面向开源及私有软件项目的托管平台）  
 [Github](http://baike.baidu.com/link?url=Iung-d2ZTenGm0RfT6hZTB1QQV06ZL0pV0oxu4UTI3gNtSYvwaABH-BuLPbfsYmQ2Pv7kyOCKllo8zwkENFtJa)
 2. Git是什么
 版本管理系统
