@@ -9,16 +9,16 @@ setting 中删除  delete
 Linux  
 5. Pwd是什么命令  
 显示当前目录  
-6. Cd是什么命令    
+6. Cd是什么命令  
 切换到当前目录  
-7. Echo是什么命令  
-打印 输出
-8. 配置git用户名的命令  
+7. Echo是什么命令  
+打印 输出  
+8. 配置git用户名的命令  
 $ git config --global user.name "用户名"  
 9. 配置邮箱的命令  
 $ git config --global user.email "电子邮箱"  
 10. 命令行换行方式  
-/
+/  
 11. 命令行终结方式  
 Ctrl+c  
 12. 使用命令行比GUI方式有何优势 
@@ -30,9 +30,9 @@ git init
 15. git clone [url] 这个命令的作用是  
 克隆仓库  
 16. 添加指定文件到暂存区的命令  
-git add [file1] [file2]  
+git add [file1]  
 17. 删除工作区文件，并且将这次删除放入暂存区的命令
-git rm [file1] [file2]  
+git rm [file1]  
 18. 改名文件，并且将这个改名文件放入暂存区的命令  
 git mv [file-origin]  
 19. 提交暂存区到仓库的命令  
